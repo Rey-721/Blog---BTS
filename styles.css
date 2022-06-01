@@ -1,4 +1,12 @@
-body {
-  background: orange;
+.nav {
   font-family: 'Open Sans', sans-serif;
+}
+
+p, .para-text {
+  font-family: 'EB Garamond', serif;
+}
+
+.card-title{
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
 }
